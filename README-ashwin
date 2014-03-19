@@ -1,0 +1,1 @@
+This repository is a clone of the facebook/rocksdb repository that contains suppor for adding ETAG support on a key/value pair. This is to enable read modify write semantics 
